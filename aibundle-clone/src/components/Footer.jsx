@@ -64,7 +64,9 @@ const Footer = () => {
             
             {/* Social links */}
             <div>
-              <h3 className="text-white font-medium mb-4">Follow Us</h3>
+              <h3 className="text-white font-medium mb-4">
+                  Follow Us
+              </h3>
               <div className="flex space-x-4">
                 <a href="#" className="hover:text-white transition-colors">
                   <span className="sr-only">Twitter</span>
